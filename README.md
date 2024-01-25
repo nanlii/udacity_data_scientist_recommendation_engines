@@ -36,7 +36,7 @@ In the IBM Watson Studio, there is a large collaborative community ecosystem of 
 In this project, I created several recommendation systems to determine the potential improvements of different recommendation methods. 
 
 ## File Descriptions <a name="files"></a>
-...bash
+```bash
 .
 ├── Recommendations_with_IBM.html #html version
 ├── Recommendations_with_IBM.ipynb #main notebook with all the analysis
@@ -51,7 +51,7 @@ In this project, I created several recommendation systems to determine the poten
 ├── top_20.p
 ├── top_5.p
 └── user_item_matrix.p
-...
+```
 
 ## Results<a name="results"></a>
 There are several approaches to further determine if the recommendation systems are an improvement:
