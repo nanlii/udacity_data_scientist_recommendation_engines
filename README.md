@@ -38,8 +38,8 @@ In this project, I created several recommendation systems to determine the poten
 ## File Descriptions <a name="files"></a>
 ```bash
 .
-├── Recommendations_with_IBM.html #html version
-├── Recommendations_with_IBM.ipynb #main notebook with all the analysis
+├── Recommendations_with_IBM.html # html version
+├── Recommendations_with_IBM.ipynb # main notebook with all the analysis
 ├── __pycache__
 │   └── project_tests.cpython-39.pyc
 ├── data
